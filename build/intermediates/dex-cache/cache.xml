@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_007c70447343f7e7e570620344e950326c94211c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_4808320639f70e98399f745c353b655d91a2f9c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\CircleImageView-master\gradle\wrapper\gradle-wrapper.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d229475a85469cc6aab6348e8714bd1c1f833fb4">
+        <dex dex="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\pre-dexed\debug\gradle-wrapper_5c181e1e62c6279d5a90ca14043c30d769cb79cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_ecf4d2d7ba5ac443e11a0f8e230a57f27172af55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_3bbbc1cdd7c095d146102808083a049bb1295782.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_f50f26add4aca8d4206db2a13930272f58921e78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\libs\KGJsonConverter.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cea743dc2e193922f7e7dc34858ef15b00afc6db">
+        <dex dex="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\pre-dexed\debug\KGJsonConverter_2ed5f7d4b5a21815daa9d340e631bf87f98320c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_badcc59626c8bf60fbd570ba883ac0f8d5c9be7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_0815fa37177f2e55a826c2e3bbf85d69b8c87fdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\exploded-aar\com.github.amigold.fundapter\library\1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="12e67307b10da7aad1bd09af41f281a2fed08d96">
+        <dex dex="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\pre-dexed\debug\com.github.amigold.fundapter-library-1.0_4d11481bd26b2bdde458130b4610cbb46e813411.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_3bef8652815e905d17f4643d0af9eeb46781ca5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\libs\GenAsync.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0f5e48bcb980aa260360949d8c5bc5b348359ee2">
+        <dex dex="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\pre-dexed\debug\GenAsync.1.2_d574f9a87d4153187cf950732af00b369a7c5463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_becfffdb4668ce064db344324536bc213c5377b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_4c5958bfe4e7176a5d288d1994f6457e129dc53b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_1aabc473dfa9f6b066bc1fbbe8285af56c8942ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="49233ecd3f814ec2610bf2195ceac79fdd1a3214">
+        <dex dex="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b8dc2ca1358389dfc9598fc09fbb7956dbba48a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\libs\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\pre-dexed\debug\gson-2.2.4_ec594526c673b42eeedf6b9c2aa34b8f8a07a114.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="07a2940116933cc209ab7edf1b7d591562006eff">
+        <dex dex="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\pre-dexed\debug\instant-run_2494ffc91c090b3f1dcda79f1bc396ad160d66e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\User\AndroidStudioProjects\BuaNewTotal\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_190dd0d058f17f8e909903f4d008e8c003d43254.jar" />
+    </item>
+
+</items>

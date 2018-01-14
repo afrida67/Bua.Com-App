@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\BuaNewTotal\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\BuaNewTotal\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\BuaNewTotal\\app\\build\\intermediates\\res\\merged\\debug\\menu\\drawer.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\BuaNewTotal\\app\\src\\main\\res\\menu\\drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\BuaNewTotal\\app\\build\\intermediates\\res\\merged\\debug\\menu\\nav11.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\BuaNewTotal\\app\\src\\main\\res\\menu\\nav11.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\BuaNewTotal\\app\\build\\intermediates\\res\\merged\\debug\\menu\\edit.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\BuaNewTotal\\app\\src\\main\\res\\menu\\edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\BuaNewTotal\\app\\build\\intermediates\\res\\merged\\debug\\menu\\drawermenu.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\BuaNewTotal\\app\\src\\main\\res\\menu\\drawermenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\BuaNewTotal\\app\\build\\intermediates\\res\\merged\\debug\\menu\\nac.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\BuaNewTotal\\app\\src\\main\\res\\menu\\nac.xml"
+    }
+]

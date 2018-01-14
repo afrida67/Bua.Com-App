@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@drawable/bac"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/id1"
+                android:layout_width="140dp"
+                android:layout_height="120dp"
+                android:layout_marginLeft="4dp"
+                android:src="@drawable/o4"
+                />
+
+
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_marginLeft="150dp"
+            android:id="@+id/id2"
+            android:layout_marginTop="27dp"
+            android:layout_width="70dp"
+            android:layout_height="170dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/ff"
+            />
+        <ImageView
+            android:layout_toRightOf="@+id/id2"
+            android:layout_marginTop="1dp"
+            android:layout_width="210dp"
+            android:layout_height="200dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/nn"
+            />
+
+    </RelativeLayout>
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/acv"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="Welcome to Bua.Com"
+            android:fontFamily="sans-serif-middle"
+            android:textSize="27sp"
+            android:textStyle="bold"
+            android:textColor="#1A237E"/>
+        <TextView
+            android:id="@+id/abi"
+            android:layout_marginTop="50dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="We provide trusted and verified"
+            android:fontFamily="sans-serif-middle"
+            android:textSize="18sp"
+            android:textStyle="italic"
+            android:textColor="#1A237E"/>
+        <TextView
+            android:id="@+id/abn"
+            android:layout_marginTop="2dp"
+            android:layout_below="@id/abi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text= "Bua for You"
+            android:fontFamily="sans-serif-middle"
+            android:textSize="18sp"
+            android:textStyle="italic"
+            android:textColor="#1A237E"/>
+
+        <TextView
+            android:id="@+id/nm"
+            android:layout_marginTop="130dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="Looking for Bua"
+            android:fontFamily="sans-serif-middle"
+            android:textSize="17sp"
+            android:textStyle="italic"
+            android:textColor="#1A237E"/>
+
+        <Button
+            android:id="@+id/bt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/nm"
+            android:textSize="17dp"
+            android:layout_marginTop="10dp"
+            android:layout_centerVertical="true"
+            android:background="@drawable/b4"
+            android:textColor="#ffff"
+            android:textAllCaps="false"
+            android:text="Book Here"/>
+    </RelativeLayout>
+
+</LinearLayout>

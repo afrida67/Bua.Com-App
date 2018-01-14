@@ -1,0 +1,96 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    >
+<LinearLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="historical.com.example.ahmed.historicalplacesbd.Division">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/bb"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="8dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/as"/>
+
+        <TextView
+            android:layout_marginTop="70dp"
+            android:layout_toRightOf="@+id/bb"
+            android:id="@+id/aa"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:textSize="27dp"
+            android:textStyle="bold"
+            android:text="  Keep Your"
+            />
+
+        <TextView
+            android:layout_marginTop="100dp"
+            android:layout_toRightOf="@+id/bb"
+            android:id="@+id/ab"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:textSize="27dp"
+            android:textStyle="bold"
+            android:text="  Child Safe"
+            />
+
+    </RelativeLayout>
+
+    <TextView
+    android:id="@+id/statusText"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textColor="#000"
+    android:textSize="19dp"
+    android:text=""
+    />
+    <TextView
+        android:id="@+id/statusText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:textSize="19dp"
+        android:text=""
+        />
+    <TextView
+    android:id="@+id/statusText3"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textColor="#000"
+    android:textSize="19dp"
+    android:text=""
+    />
+    <TextView
+        android:id="@+id/statusText4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:textSize="19dp"
+        android:text=""
+        />
+    <Button
+        android:layout_marginTop="40dp"
+        android:layout_width="399dp"
+        android:layout_marginLeft="2dp"
+        android:layout_height="60dp"
+        android:textSize="23dp"
+        android:textAllCaps="false"
+        android:background="@drawable/b44"
+        android:text="Related Videos"
+        android:layout_marginBottom="8dp"
+        android:id="@+id/ppp"/>
+</LinearLayout>
+</ScrollView>

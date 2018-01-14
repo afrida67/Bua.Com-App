@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/zi"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="99dp"
+        android:layout_marginLeft="16dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Bua.Com for Android"
+        android:id="@+id/textView2"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:textColor="#E8EAF6"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:layout_marginLeft="16dp"
+        android:text="Version 1.1"
+        android:id="@+id/textView4"
+        android:textSize="25sp"
+        android:textColor="#E3F2FD"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:layout_marginLeft="21dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="@string/o1"
+        android:id="@+id/textView6"
+        android:textSize="27sp"
+        android:textColor="#E8EAF6"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="21dp"
+        android:layout_marginLeft="21dp"
+        android:autoLink="web"
+        android:fontFamily="sans-serif-medium"
+        android:text="http://cherry67.netne.net/afsana/bua2.com.php"
+        android:id="@+id/textView7"
+        android:textSize="28sp"
+        android:textColorLink="#E8EAF6"
+        />
+
+</LinearLayout>

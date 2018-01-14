@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Bua.Com</string>
+
+    <string name="x1">Home</string>
+    <string name="x2">About</string>
+
+    <string name="a1">Looking fo Bua?</string>
+    <string name="a2">Welcome to Bua.Com</string>
+    <string name="a3">About</string>
+    <string name="a4">Home</string>
+    <string name="a5">Settings</string>
+    <string name="a6">My Profle</string>
+    <string name="a9">Looking for Work?</string>
+    <string name="title_activity_nav11">nav11</string>
+    <string name="opp">   We provide trusted and verified</string>
+    <string name="ii">Bua for you</string>
+    <string name="eng">English</string>
+    <string name="ben">Bangla</string>
+    <string name="hello">hello world</string>
+    <string name="cng">Change Language Here</string>
+    <string name="book">Book Here</string>
+    <string name="o9">Login or Put your Profile</string>
+    <string name="o1">Website : </string>
+    <string name="o2">Find The User Here</string>
+    <string name="upn">No account yet? Create one</string>
+    <string name="upnv">No profile yet? Create one</string>
+    <string name="oo">Sign Up</string>
+    <string name="piv">Choose Image</string>
+    <string name="pre"> How Do you Prefer to Work?</string>
+
+    <string name="ss">Salary</string>
+    <string name="sc">Cooking Rate</string>
+    <string name="sl">Laundry Rate</string>
+    <string name="scc">Cleaning Rate</string>
+    <string name="sr">Reference</string>
+    <string name="saa">Age</string>
+
+    <string name="un">Username</string>
+    <string name="nn">Name</string>
+    <string name="pn">Phone Number</string>
+    <string name="nid">National ID</string>
+    <string name="ee">Email</string>
+    <string name="aaa">Address</string>
+    <string name="pp">Password</string>
+    <string name="reg">Register</string>
+
+    <string name="fl">Full Time</string>
+    <string name="pr">Part Time</string>
+    <string name="or">or</string>
+
+    <string name="up">Login</string>
+    <string name="upvn"> Create New Account </string>
+    <string name="l1">Login As</string>
+    <string name="l2">Bua</string>
+    <string name="l3">User</string>
+    <string name="l4">Select Catagory</string>
+
+
+    <string-array name="colors">
+        <item>Mirpur DOHS</item>
+        <item>Uttara</item>
+        <item>Puran Dhaka</item>
+        <item>Farmgate</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>Full Timer Bua</item>
+        <item>Part Timer Bua</item>
+
+    </string-array>
+
+    <string-array name="country_codes">
+        <item>1</item>
+        <item>45</item>
+    </string-array>
+
+    <string-array name="country_flags">
+        <item>@drawable/cc</item>
+        <item>@drawable/cc</item>
+    </string-array>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
